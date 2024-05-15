@@ -17,3 +17,5 @@ repositorio remoto.
 git add .
 
 git push
+
+git commit -a -m "mensaje": Añade y confirma automaticamente todos los archivos rastreados que han sido modificados, en un solo paso.
