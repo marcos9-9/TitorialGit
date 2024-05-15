@@ -15,3 +15,5 @@ repositorio remoto.
 - `git remote -v`: Muestra las URLs de los repositorios remotos.
 
 git add .
+
+git push
