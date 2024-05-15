@@ -13,3 +13,5 @@ repositorio remoto.
 - `git branch -M main`: Cambia el nombre de la rama principal a `main`.
 - `git remote add origin <URL>`: Añade un repositorio remoto.
 - `git remote -v`: Muestra las URLs de los repositorios remotos.
+
+git add .
